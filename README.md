@@ -1086,3 +1086,7 @@ See GitHub history for all [contributors](https://github.com/encukou/freezeyt/gr
 
 This project is licensed under the [MIT License](LICENCE.MIT).
 May it serve you well.
+
+## 作用 
+
+https://github.com/encukou/freezeyt/commit/337eca82ff071e9f1f6d23bb6a412662107cad3b
